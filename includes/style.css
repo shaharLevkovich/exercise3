@@ -5,17 +5,17 @@
 header, nav, aside, article, section, footer, main{
     display: block;
 }
+
+/***layout1***/
 #wrapper1{
     margin: 0px auto;
     width: 1000px;
     height: 1000px;
 }
-
-#top1{
+#top1 {
     width: 1000px;
     height: 183px;
 }
-
 .menu1{
     width:727px;
     height: 57px;
@@ -25,22 +25,18 @@ header, nav, aside, article, section, footer, main{
     font-family: Arial;
     text-align: center ;
 }
-
 .selected1{
     background-color: #021961;
 }
-
 ul{
     float:left;
     list-style-type: none;
 }
-
 li{
     float:left;
     width: 242px;
     height: 57px;
 }
-
 nav a{
     text-decoration: none;
     color: #ffffff;
@@ -60,7 +56,6 @@ aside{
     background-color: #7e95de;
     float: left;
 }
-
 section{
     width: 849px;
     height: 270px;
@@ -69,26 +64,22 @@ section{
     margin-left: 29px;
     position: relative;
 }
-
 article{
     position: absolute;
     background-color: black;
     opacity: 0.6;
 }
-
 #box1{
     top: 90px;
     left:340px;
     width:125px;
     height:94px;
 }
-
 .content1{
     position: relative;
     float: left;
     margin-left: 97px;
 }
-
 #box2{
     top:222px;
     position: absolute;
@@ -96,7 +87,6 @@ article{
     height: 177px;
     background-color: black;
 }
-
 #bottom1{
     background-color: #d6d6d6;
     width:1000px;
@@ -110,12 +100,10 @@ article{
     width: 1000px;
     height: 1000px;
 }
-
 #top2{
     width:1000px;
     height:194px;
 }
-
 #logo2{
     width:78px;
     height:79px;
@@ -124,7 +112,6 @@ article{
     margin: 0 auto;
     margin-top: 38px;
 }
-
 .menu2{
     width:242px;
     height: 757px;
@@ -132,11 +119,9 @@ article{
     background-color: #021961;
     font-family: Arial;
 }
-
 .selected2{
     background-color: #3864f2;
 }
-
 .content2{
     background-color: #4b73f4;
     float:right;
@@ -144,7 +129,6 @@ article{
     height:757px;
     position: relative;
 }
-
 .rectangle1{
     height: 366px;
     width:214px;
@@ -172,7 +156,6 @@ article{
     margin-left:274px;
     margin-top:577px;
 }
-
 .bottom2{
     width:1000px;
     height:50px;
@@ -181,7 +164,6 @@ article{
     bottom: 0;
     left: 124px;
 }
-
 div.clear{
     clear: both;
 }
