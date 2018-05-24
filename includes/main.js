@@ -16,7 +16,7 @@ function getRandomOpacity() {
 
     var count = 0;
     var toAdd=3;
-    var addHeight = 500;
+    var addHeight = 250;
     document.getElementById("button").addEventListener("click", add);
 
     function add() {
